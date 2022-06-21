@@ -2,6 +2,7 @@ Django==4.0.5
 django-heroku==0.0.0
 firebase==3.0.1
 firesql==0.1.6
+firebase_admin
 greenlet==1.1.2
 gunicorn==20.1.0
 idna==3.3
