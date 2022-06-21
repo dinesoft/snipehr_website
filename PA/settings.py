@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-s(lf69im=mfu562psamk*ri88xgcaxb+&qqg$!llfgmnkhbvq7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://supertestesgi.herokuapp.com/']
+ALLOWED_HOSTS = ['https://supertestesgi.herokuapp.com/', 'supertestesgi.herokuapp.com']
 
 DEBUG_COLLECTSTATIC=1
 
