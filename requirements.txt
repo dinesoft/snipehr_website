@@ -1,11 +1,7 @@
-alembic==1.6.5
-asgiref==3.5.2
 certifi==2022.5.18.1
 charset-normalizer==2.0.12
-dj-database-url==0.5.0
 Django==4.0.5
 django-heroku==0.0.0
-et-xmlfile==1.1.0
 firebase==3.0.1
 firesql==0.1.6
 greenlet==1.1.2
@@ -19,8 +15,6 @@ mkl-service==2.4.0
 numpy
 openai==0.20.0
 openpyxl==3.0.10
-pandas==1.4.2
-pandas-stubs==1.2.0.61
 PyMySQL==1.0.2
 python-dateutil==2.8.2
 python-dotenv==0.20.0
@@ -28,9 +22,7 @@ python-editor==1.0.4
 pytz==2022.1
 requests==2.28.0
 scipy
-six
 SQLAlchemy==1.4.37
 sqlparse==0.4.2
-tqdm==4.64.0
 urllib3==1.26.9
 whitenoise==6.2.0
